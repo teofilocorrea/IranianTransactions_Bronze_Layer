@@ -4,7 +4,7 @@
 -- Origen : stg.transactions
 -- Destino: bronze.transactions
 -- Autor  : Teofilo Correa Rojas
--- Fecha  : 05 de octubre 2026
+-- Fecha  : 5 de octubre 2026
 -- ============================================================
 
 INSERT INTO bronze.transactions (status, time, card_type, city, amount, id, source_file,load_date,record_status)
